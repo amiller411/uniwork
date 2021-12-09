@@ -1,1 +1,1 @@
-just to get it started
+this repo contains a recommendation system for an anime dataset (kaggle https://www.kaggle.com/CooperUnion/anime-recommendations-database), implementing a simple ALS algo in pyspark 
